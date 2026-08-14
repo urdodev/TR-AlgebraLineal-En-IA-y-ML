@@ -9,3 +9,5 @@
 - Customer account information – how long they’ve been a customer, contract, payment method, paperless billing, monthly charges, and total charges
 
 - Demographic info about customers – gender, age range, and if they have partners and dependents
+
+Es perfecto para mi trabajo ya que contiene datos basura, nulos, columnas innecesarias, etc.
