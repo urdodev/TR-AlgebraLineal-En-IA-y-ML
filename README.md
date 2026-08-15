@@ -1,5 +1,5 @@
 # TR-AlgebraLineal-En-IA-y-ML
-Este es la parte practica del TR de catalunya. 
+Este repo forma parte del Treball de Recerca de Catalunya por parte de un alumno.
 - Hecho por: Rayan el Bakkali.
 - Instituto: Ins Vinyes Velles
 
